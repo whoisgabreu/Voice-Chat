@@ -1,8 +1,8 @@
 import socket
 import threading
 
-HOST = '192.168.4.44'  # Aceita conexões externas
-PORT = 5000
+HOST = '31.97.27.195'  # Aceita conexões externas
+PORT = 5005
 
 clients = []
 

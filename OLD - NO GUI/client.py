@@ -10,7 +10,7 @@ FORMAT = pyaudio.paInt16
 CHANNELS = 1
 RATE = 44100
 
-SERVER_IP = '192.168.4.44'  # ou IP do servidor na rede local
+SERVER_IP = '31.97.27.195'  # ou IP do servidor na rede local
 SERVER_PORT = 5005
 
 p = pyaudio.PyAudio()
